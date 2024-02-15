@@ -1,0 +1,1 @@
+ucf101-caffe.pth filter=lfs diff=lfs merge=lfs -text
